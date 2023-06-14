@@ -108,7 +108,6 @@
       <a href="https://www.vmware.com/"><img alt="VMware Virtual Machine" src="https://img.shields.io/badge/VMware%20Virtual%20Machine-607078.svg?logo=vmware&logoColor=white"></a>
       <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
       <a href="https://filezilla-project.org/"><img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000.svg?logo=filezilla&logoColor=white"></a>
-      <a href="https://www.putty.org/"><img alt="PuTTY" src="https://img.shields.io/badge/PuTTY-1E90FF.svg?logo=putty&logoColor=white"></a>
       <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       
       
@@ -132,7 +131,7 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Dotatello's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadsalehMoradpoor&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=Jupyter%20Notebook,Roff" height="192px"/></a>
   <br/>
   
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="MohamadsalehMoradpoor's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MohamadsalehMoradpoor&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Dotatello's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MohamadsalehMoradpoor&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 </details>
 
