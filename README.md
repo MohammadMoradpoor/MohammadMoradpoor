@@ -57,9 +57,9 @@
 </details>
 
 <details> 
-  <summary><h3>🛠️ My Favorite Tools</h3></summary>
+  <summary><h3><em>🛠️ My Favorite Tools</h3></summary>
 
-  <h4>👨‍💻 Programming and Markup Languages</h4>
+  <h4><em>👨‍💻 Programming and Markup Languages</h4>
 
   <p>
       <a href="https://github.com/search?q=user%3AMohamadsalehMoradpoor+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
@@ -67,7 +67,7 @@
       <a href="https://github.com/search?q=user%3AMohamadsalehMoradpoor+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   </p>
   
-  <h4>🧰 Frameworks and Libraries</h4>
+  <h4><em>🧰 Frameworks and Libraries</h4>
 
   <p>
       <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
@@ -82,13 +82,13 @@
       <a href="https://flask.palletsprojects.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a></a>
   </p>
   
-  <h4>🗄️ Databases and Cloud Hosting</h4>
+  <h4><em>🗄️ Databases and Cloud Hosting</h4>
 
   <p>
       <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
 
-  <h4>💻 Software and Tools</h4>
+  <h4><em>💻 Software and Tools</h4>
 
   <p>
       <a href="https://www.anaconda.com/"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-42B029.svg?logo=anaconda&logoColor=white"></a>
@@ -114,9 +114,9 @@
 </details>
 
 <details> 
-  <summary><h3>📊 Github Stats and Activity</h3></summary>
+  <summary><h3><em>📊 Github Stats and Activity</h3></summary>
 
-  <h4>🔥 Streak Stats</h4>
+  <h4><em>🔥 Streak Stats</h4>
 
   <p>
     <a href="https://github.com/MohamadsalehMoradpoor/github-readme-streak-stats">
@@ -124,7 +124,7 @@
     </a>
   </p>
 
-  <h4>💻 GitHub Profile Stats</h4>
+  <h4><em>💻 GitHub Profile Stats</h4>
 
   | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamadsalehMoradpoor&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Donatello's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadsalehMoradpoor&layout=compact&theme=react&hide_border=true" /></a> |
   | ------------- | ------------- |
@@ -133,7 +133,7 @@
 </details>
 
 <details>
-  <summary><h3>✍️ Random Dev Quote</h3></summary>
+  <summary><h3><em>✍️ Random Dev Quote</h3></summary>
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </details>
 
