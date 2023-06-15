@@ -137,5 +137,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </details>
 
-💬 Ask me about anything [issue](https://github.com/MohamadsalehMoradpoor/MohamadsalehMoradpoor/issues)
 <a href="https://github.com/MohamadsalehMoradpoor/MohamadsalehMoradpoor/issues"><img alt="Ask me about anything" src="https://img.shields.io/badge/Ask%20me%20about%20anything-000000?style=for-the-badge&logo=github"></a>
