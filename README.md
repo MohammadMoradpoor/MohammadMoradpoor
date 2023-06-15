@@ -42,7 +42,7 @@
 </p>
 
 <details open> 
-  <summary><h3>📕 My Top Projects</h3></summary>
+<summary><h3><em>📕 My Top Projects</em></h3></summary>
 
   <p align="left">
     <a href="https://github.com/MohamadsalehMoradpoor/VisualAIProjects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohamadsalehMoradpoor&repo=VisualAIProjects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="VisualAIProjects"></a>
