@@ -119,10 +119,9 @@
   <h4>🔥 Streak Stats</h4>
 
   <p>
-    | <a href="https://github.com/MohamadsalehMoradpoor/github-readme-streak-stats">
+    <a href="https://github.com/MohamadsalehMoradpoor/github-readme-streak-stats">
       <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MohamadsalehMoradpoor's streak" src="https://streak-stats.demolab.com/?user=MohamadsalehMoradpoor&theme=monokai-metallian&hide_border=true"/>
-    </a> |
-  | ------------- | ------------- |
+    </a>
   </p>
 
   <h4>💻 GitHub Profile Stats</h4>
@@ -130,7 +129,7 @@
   | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamadsalehMoradpoor&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Donatello's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadsalehMoradpoor&layout=compact&theme=react&hide_border=true" /></a> |
   | ------------- | ------------- |
   
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Donatello's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MohamadsalehMoradpoor&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> |
+  | <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Donatello's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MohamadsalehMoradpoor&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a> |
   | ------------- | ------------- |
 </details>
 
