@@ -78,6 +78,7 @@
       <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
       <a href="https://www.scipy.org/"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6.svg?logo=scipy&logoColor=white"></a>
       <a href="https://plotly.com/python/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white"></a>
+      <a href="https://streamlit.io/" style="background-color:#FF4B4B;"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white"></a>
       <a href="https://scikit-learn.org/"><img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white"></a>
       <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
       <a href="https://keras.io/"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"></a>
