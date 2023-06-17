@@ -66,6 +66,7 @@
 
   <p>
       <a href="https://github.com/search?q=user%3AMohamadsalehMoradpoor+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AMohamadsalehMoradpoor+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AMohamadsalehMoradpoor+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
       <a href="https://github.com/search?q=user%3AMohamadsalehMoradpoor+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   </p>
@@ -101,6 +102,7 @@
       <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
       <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white"></a>
       <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="https://www.rstudio.com/" title="R Studio"><img alt="R Studio" src="https://img.shields.io/badge/R%20Studio-75AADB.svg?logo=rstudio&logoColor=white"></a>
       <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
       <a href="https://notepad-plus-plus.org/"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepadplusplus&logoColor=white"></a>
       <a href="https://atom.io/"><img alt="Atom" src="https://img.shields.io/badge/Atom-66595C.svg?logo=atom&logoColor=white"></a>
@@ -116,6 +118,7 @@
       <a href="https://filezilla-project.org/"><img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000.svg?logo=filezilla&logoColor=white"></a>
       <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
       <a href="https://www.office.com/"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white"></a>
+      <a href="https://discord.com/"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
   </p>
 </details>
 
