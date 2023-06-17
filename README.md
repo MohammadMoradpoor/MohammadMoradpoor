@@ -60,7 +60,7 @@
 </details>
 
 <details> 
-  <summary><h3><em>🛠️ My Favorite Tools</h3></summary>
+  <summary><h3><em>🛠️ Tech Stack</h3></summary>
 
   <h4><em>👨‍💻 Programming and Markup Languages</h4>
 
