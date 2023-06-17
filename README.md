@@ -83,6 +83,8 @@
       <a href="https://pytorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white"></a>
       <a href="https://spark.apache.org/"><img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?logo=apache-spark&logoColor=white"></a>
       <a href="https://flask.palletsprojects.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a></a>
+      <a href="https://opencv.org/"><img alt="OpenCV" src="https://img.shields.io/badge/Open%20CV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
+
   </p>
   
   <h4><em>🗄️ Databases and Cloud Hosting</h4>
