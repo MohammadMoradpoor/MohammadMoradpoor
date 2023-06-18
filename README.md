@@ -124,7 +124,7 @@
 </details>
 
 <details>
-  <summary><h3><em>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</em></h3></summary>
+  <summary><h3><em>📈 TECH Stats</em></h3></summary>
   <br/>
   <a href='https://profile.codersrank.io/user/MohamadsalehMoradpoor/'>
   <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=MohamadsalehMoradpoor&padding=30'>
