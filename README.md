@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/MohamadsalehMoradpoor/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🤖%20Mohamadsaleh%20Moradpoor :%29;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=007fff&vCenter=true&pause=1000&size=22" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=🤖%20Mohamadsaleh%20Moradpoor :%29;Always%20learning%20new%20things 👨‍💻&font=Fira%20Code&center=true&width=440&height=45&color=007fff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <h3 align="center">
