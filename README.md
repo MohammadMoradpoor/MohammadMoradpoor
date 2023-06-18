@@ -60,7 +60,7 @@
 </details>
 
 <details> 
-  <summary><h3><em>🛠️ Skills</h3></summary>
+  <summary><h3><em>🛠️ TECH Skills</h3></summary>
 
   <h4><em>👨‍💻 Programming and Markup Languages</h4>
 
