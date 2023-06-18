@@ -4,7 +4,7 @@
 </p>
 
 <h3 align="center">
-  <em><b>Data Scientist, Machine Learning Engineer, NLP Engineer, AI Researcher! </b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></em><br>
+  <em><b>Data Scientist, Machine Learning Engineer, AI Researcher! </b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></em><br>
 </h3>
 
 <p align="center">
