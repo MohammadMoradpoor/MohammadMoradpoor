@@ -14,7 +14,7 @@
 <h3 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"></h3>
 <div align="center">
   <a href="https://profile.codersrank.io/user/MohamadsalehMoradpoor/">
-    <img src="https://img.shields.io/badge/CodersRank-000000.svg?logo=codersrank&logoColor=white" alt="CodersRank">
+    <img src="https://img.shields.io/badge/CodersRank-%23333333.svg?logo=codersrank&logoColor=white" alt="CodersRank">
   </a>
   <a href="https://www.linkedin.com/in/mohamad-moradpoor/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
