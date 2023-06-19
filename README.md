@@ -34,6 +34,9 @@
   <a href="https://profile.codersrank.io/user/MohamadsalehMoradpoor/">
     <img src="https://img.shields.io/badge/CodersRank-%23333333.svg?logo=codersrank&logoColor=white" alt="CodersRank">
   </a>
+  <a href="mailto:mohammadsalehmoradpoor@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white" alt="Gmail">
+  </a>
 </div>
 
 <br/>
