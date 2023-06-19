@@ -114,6 +114,7 @@
       <a href="https://databricks.com/"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF813F.svg?logo=databricks&logoColor=white"></a>
       <a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white"></a>
       <a href="https://www.vmware.com/"><img alt="VMware Virtual Machine" src="https://img.shields.io/badge/VMware%20Virtual%20Machine-607078.svg?logo=vmware&logoColor=white"></a>
+      <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white"></a>
       <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
       <a href="https://filezilla-project.org/"><img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000.svg?logo=filezilla&logoColor=white"></a>
       <a href="https://notepad-plus-plus.org/"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepadplusplus&logoColor=white"></a>
