@@ -22,7 +22,7 @@
   <a href="https://twitter.com/https://twitter.com/mohamadMo696">
     <img src="https://img.shields.io/badge/Twitter-27A3E3.svg?logo=Twitter&logoColor=white" alt="Twitter">
   </a>
-  <a href="https://youtube.com/channel/UCA_22c2ndhSnK-FyszESSOg">
+  <a href="https://www.youtube.com/@Donatello78">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
   </a>
   <a href="https://t.me/+54Kl8M-SGohjYTY8">
