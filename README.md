@@ -44,7 +44,8 @@
 <!-- Social badges section -->
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img alt="views" title="GitHub profile views" src="https://visitcount.itsvg.in/api?id=MohamadsalehMoradpoor&label=Profile%20Views&color=11&icon=5&pretty=true"/></a>
+    <img src="https://visitcount.itsvg.in/api?id=MohamadsalehMoradpoor&label=Profile%20Views&color=11&icon=5&pretty=true" />
+  </a>
 </p>
 
 <details open> 
