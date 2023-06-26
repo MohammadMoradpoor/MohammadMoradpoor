@@ -101,6 +101,7 @@
       <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
       <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
       <a href="https://www.microsoft.com/en-us/sql-server"><img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927.svg?logo=microsoft-sql-server&logoColor=white"></a>
+      <a href="https://pages.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
 
   <h4><em>💻 Software and Tools</h4>
 
