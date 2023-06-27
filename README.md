@@ -13,7 +13,7 @@
 
 <h3 align="center"><img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"></h3>
 <div align="center">
-  <a href="https://www.linkedin.com/in/mohamad-moradpoor/">
+  <a href="https://www.linkedin.com/in/mohammad-moradpoor/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="https://www.instagram.com/mr.programmer78">
@@ -34,7 +34,7 @@
   <a href="https://profile.codersrank.io/user/MohamadsalehMoradpoor/">
     <img src="https://img.shields.io/badge/CodersRank-%23333333.svg?logo=codersrank&logoColor=white" alt="CodersRank">
   </a>
-  <a href="mailto:mohammadsalehmoradpoor@gmail.com">
+  <a href="mailto:m.moradpoor696@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white" alt="Gmail">
   </a>
 </div>
