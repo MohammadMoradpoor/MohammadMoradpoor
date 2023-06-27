@@ -139,6 +139,8 @@
   </a>
 
 </details>
+
+<codersrank-skills-chart username="MohammadMoradpoor"></codersrank-skills-chart>
     
 <details> 
   <summary><h3><em>📊 Github Stats and Activity</h3></summary>
