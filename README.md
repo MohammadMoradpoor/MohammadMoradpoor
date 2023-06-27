@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://github.com/MohamadsalehMoradpoor/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=🤖%20Mohamadsaleh%20Moradpoor :%29;Always%20learning%20new%20things 👨‍💻&font=Fira%20Code&center=true&width=440&height=45&color=007fff&vCenter=true&pause=1000&size=22" /></a>
+  <a href="https://github.com/MohammadMoradpoor/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=🤖%20Mohammad%20Moradpoor :%29;Always%20learning%20new%20things 👨‍💻&font=Fira%20Code&center=true&width=440&height=45&color=007fff&vCenter=true&pause=1000&size=22" /></a>
 </p>
 
 <h3 align="center">
@@ -31,7 +31,7 @@
   <a href="https://www.kaggle.com/mohammad696">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
-  <a href="https://profile.codersrank.io/user/MohamadsalehMoradpoor/">
+  <a href="https://profile.codersrank.io/user/MohammadMoradpoor/">
     <img src="https://img.shields.io/badge/CodersRank-%23333333.svg?logo=codersrank&logoColor=white" alt="CodersRank">
   </a>
   <a href="mailto:m.moradpoor696@gmail.com">
@@ -44,25 +44,25 @@
 <!-- Social badges section -->
 <p align="center">
   <a href="https://visitcount.itsvg.in">
-    <img alt="views" title="GitHub profile views" src="https://visitcount.itsvg.in/api?id=MohamadsalehMoradpoor&label=Profile%20Views&color=11&icon=5&pretty=true"/></a>
+    <img alt="views" title="GitHub profile views" src="https://visitcount.itsvg.in/api?id=MohammadMoradpoor&label=Profile%20Views&color=11&icon=5&pretty=true"/></a>
 </p>
 
 <details open> 
 <summary><h3><em>📕 My Top Projects</em></h3></summary>
 
   <p align="left">
-    <a href="https://github.com/MohamadsalehMoradpoor/VisualAIProjects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohamadsalehMoradpoor&repo=VisualAIProjects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="VisualAIProjects"></a>
-    <a href="https://github.com/MohamadsalehMoradpoor/TextAIHub"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohamadsalehMoradpoor&repo=TextAIHub&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="TextAIHub"></a>
-    <a href="https://github.com/MohamadsalehMoradpoor/ForecastAI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohamadsalehMoradpoor&repo=ForecastAI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ForecastAI"></a>
-    <a href="https://github.com/MohamadsalehMoradpoor/FraudDetectAI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohamadsalehMoradpoor&repo=FraudDetectAI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FraudDetectAI"></a>
-    <a href="https://github.com/MohamadsalehMoradpoor/MountainCarRL"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohamadsalehMoradpoor&repo=MountainCarRL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MountainCarRL"></a>
-    <a href="https://github.com/MohamadsalehMoradpoor/RFMClustify"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohamadsalehMoradpoor&repo=RFMClustify&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFMClustify"></a>
-    <a href="https://github.com/MohamadsalehMoradpoor/InsuranceAccidentEstimate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohamadsalehMoradpoor&repo=InsuranceAccidentEstimate&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFMClustify"></a>
-    <a href="https://github.com/MohamadsalehMoradpoor/PyPlayer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohamadsalehMoradpoor&repo=PyPlayer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFMClustify"></a>
-    <a href="https://github.com/MohamadsalehMoradpoor/WeatherAppDisplay"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohamadsalehMoradpoor&repo=WeatherAppDisplay&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFMClustify"></a>
+    <a href="https://github.com/MohammadMoradpoor/VisualAIProjects"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohammadMoradpoor&repo=VisualAIProjects&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="VisualAIProjects"></a>
+    <a href="https://github.com/MohammadMoradpoor/TextAIHub"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohammadMoradpoor&repo=TextAIHub&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="TextAIHub"></a>
+    <a href="https://github.com/MohammadMoradpoor/ForecastAI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohammadMoradpoor&repo=ForecastAI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="ForecastAI"></a>
+    <a href="https://github.com/MohammadMoradpoor/FraudDetectAI"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohammadMoradpoor&repo=FraudDetectAI&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="FraudDetectAI"></a>
+    <a href="https://github.com/MohammadMoradpoor/MountainCarRL"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohammadMoradpoor&repo=MountainCarRL&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="MountainCarRL"></a>
+    <a href="https://github.com/MohammadMoradpoor/RFMClustify"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohammadMoradpoor&repo=RFMClustify&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFMClustify"></a>
+    <a href="https://github.com/MohammadMoradpoor/InsuranceAccidentEstimate"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohammadMoradpoor&repo=InsuranceAccidentEstimate&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFMClustify"></a>
+    <a href="https://github.com/MohammadMoradpoor/PyPlayer"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohammadMoradpoor&repo=PyPlayer&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFMClustify"></a>
+    <a href="https://github.com/MohammadMoradpoor/WeatherAppDisplay"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=MohammadMoradpoor&repo=WeatherAppDisplay&theme=react&bg_color=1F222E&title_color=F85D7F&hide_border=true&icon_color=F8D866&show_icons=false" alt="RFMClustify"></a>
   </p>
 
-  <a href="https://github.com/MohamadsalehMoradpoor?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+  <a href="https://github.com/MohammadMoradpoor?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
 <details> 
@@ -71,10 +71,10 @@
   <h4><em>👨‍💻 Programming and Markup Languages</h4>
 
   <p>
-      <a href="https://github.com/search?q=user%3AMohamadsalehMoradpoor+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AMohamadsalehMoradpoor+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AMohamadsalehMoradpoor+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AMohamadsalehMoradpoor+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AMohammadMoradpoor+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AMohammadMoradpoor+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AMohammadMoradpoor+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+      <a href="https://github.com/search?q=user%3AMohammadMoradpoor+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
   </p>
   
   <h4><em>🧰 Frameworks and Libraries</h4>
@@ -134,8 +134,8 @@
 <details>
   <summary><h3><em>📈 TECH Stats</em></h3></summary>
   <br/>
-  <a href='https://profile.codersrank.io/user/MohamadsalehMoradpoor/'>
-  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=MohamadsalehMoradpoor&padding=30&skills=python,,html,json,javascript,batchfile,scss,css,ruby,shell'>
+  <a href='https://profile.codersrank.io/user/MohammadMoradpoor/'>
+  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=MohammadMoradpoor&padding=30&skills=python,,html,json,javascript,batchfile,scss,css,ruby,shell'>
   </a>
 
 </details>
@@ -146,17 +146,17 @@
   <h4><em>🔥 Streak Stats</h4>
 
   <p>
-    <a href="https://github.com/MohamadsalehMoradpoor/github-readme-streak-stats">
-      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MohamadsalehMoradpoor's streak" src="https://streak-stats.demolab.com/?user=MohamadsalehMoradpoor&theme=monokai-metallian&hide_border=true"/>
+    <a href="https://github.com/MohammadMoradpoor/github-readme-streak-stats">
+      <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="MohammadMoradpoor's streak" src="https://streak-stats.demolab.com/?user=MohammadMoradpoor&theme=monokai-metallian&hide_border=true"/>
     </a>
   </p>
 
   <h4><em>💻 GitHub Profile Stats</h4>
 
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MohamadsalehMoradpoor&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Donatello's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamadsalehMoradpoor&layout=compact&theme=react&hide_border=true" /></a> |
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=MohammadMoradpoor&show_icons=true&include_all_commits=true&theme=react&hide_border=true" alt="Donatello's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohammadMoradpoor&layout=compact&theme=react&hide_border=true" /></a> |
   | ------------- | ------------- |
   
-  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Donatello's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MohamadsalehMoradpoor&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Donatello's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=MohammadMoradpoor&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 </details>
 
 <details>
@@ -164,4 +164,4 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical">
 </details>
 
-<a href="https://github.com/MohamadsalehMoradpoor/MohamadsalehMoradpoor/issues"><img alt="Ask me about anything" src="https://img.shields.io/badge/Ask%20me%20about%20anything-1F222E?style=for-the-badge&logo=messenger"></a>
+<a href="https://github.com/MohammadMoradpoor/MohammadMoradpoor/issues"><img alt="Ask me about anything" src="https://img.shields.io/badge/Ask%20me%20about%20anything-1F222E?style=for-the-badge&logo=messenger"></a>
