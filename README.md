@@ -131,15 +131,6 @@
   </p>
 </details>
 
-<details>
-  <summary><h3><em>📈 TECH Stats</em></h3></summary>
-  <br/>
-  <a href='https://profile.codersrank.io/user/MohammadMoradpoor/'>
-  <img src='https://cr-skills-chart-widget.azurewebsites.net/api/api?username=MohammadMoradpoor&padding=30'>
-  </a>
-
-</details>
-
 <details> 
   <summary><h3><em>📊 Github Stats and Activity</h3></summary>
 
