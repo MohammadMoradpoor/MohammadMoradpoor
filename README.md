@@ -7,10 +7,6 @@
   <em><b>Data Scientist, Machine Learning Engineer, AI Researcher! </b><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="40"></em><br>
 </h3>
 
-<h4 align="center">
-  <em><b>Liked my Contributions</em><br>:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
-</h4>
-
 <p align="center">
   <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em> <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40">
 </p>
