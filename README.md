@@ -8,7 +8,7 @@
 </h3>
 
 <h4 align="center">
-  <em><b>Liked my Contributions:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:</em><br>
+  <em><b>Liked my Contributions</em><br>:question::point_right: [Nominate Me for GitHub Stars](https://stars.github.com/nominate/) :star: :sparkles:
 </h4>
 
 <p align="center">
