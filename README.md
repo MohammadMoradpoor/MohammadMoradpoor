@@ -103,6 +103,7 @@
       <a href="https://www.microsoft.com/en-us/sql-server"><img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927.svg?logo=microsoft-sql-server&logoColor=white"></a>
       <a href="https://www.sqlite.org/index.html"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
       <a href="https://pages.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
+      <a href="https://redis.io"><img alt="Redis" src="https://img.shields.io/badge/Redis-D82C20.svg?logo=redis&logoColor=white"></a>
 
   <h4><em>💻 Software and Tools</h4>
 
