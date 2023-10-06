@@ -93,6 +93,7 @@
       <a href="https://flask.palletsprojects.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a></a>
       <a href="https://opencv.org/"><img alt="OpenCV" src="https://img.shields.io/badge/Open%20CV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
       <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"></a>
+      <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed.svg?logo=docker&logoColor=white"></a>
 
   </p>
   
