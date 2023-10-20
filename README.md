@@ -16,24 +16,24 @@
   <a href="https://www.linkedin.com/in/mohammad-moradpoor/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://www.instagram.com/mr.programmer78">
+<!--   <a href="https://www.instagram.com/mr.programmer78">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://twitter.com/https://twitter.com/mohamadMo696">
+  </a> -->
+<!--   <a href="https://twitter.com/https://twitter.com/mohamadMo696">
     <img src="https://img.shields.io/badge/Twitter-27A3E3.svg?logo=Twitter&logoColor=white" alt="Twitter">
   </a>
   <a href="https://www.youtube.com/@Donatello78">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
-  </a>
-  <a href="https://t.me/+54Kl8M-SGohjYTY8">
+  </a> -->
+<!--   <a href="https://t.me/+54Kl8M-SGohjYTY8">
     <img src="https://img.shields.io/badge/Telegram-0088CC.svg?logo=Telegram&logoColor=white" alt="Telegram">
-  </a>
+  </a> -->
   <a href="https://www.kaggle.com/mohammad696">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
-  <a href="https://profile.codersrank.io/user/MohammadMoradpoor/">
+<!--   <a href="https://profile.codersrank.io/user/MohammadMoradpoor/">
     <img src="https://img.shields.io/badge/CodersRank-%23333333.svg?logo=codersrank&logoColor=white" alt="CodersRank">
-  </a>
+  </a> -->
   <a href="mailto:m.moradpoor696@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836.svg?logo=Gmail&logoColor=white" alt="Gmail">
   </a>
