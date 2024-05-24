@@ -126,7 +126,6 @@
       <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
       <a href="https://filezilla-project.org/"><img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000.svg?logo=filezilla&logoColor=white"></a>
       <a href="https://notepad-plus-plus.org/"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepadplusplus&logoColor=white"></a>
-      <a href="https://atom.io/"><img alt="Atom" src="https://img.shields.io/badge/Atom-66595C.svg?logo=atom&logoColor=white"></a>
       <a href="https://www.rstudio.com/" title="R Studio"><img alt="R Studio" src="https://img.shields.io/badge/R%20Studio-75AADB.svg?logo=rstudio&logoColor=white"></a>
       <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
       <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
