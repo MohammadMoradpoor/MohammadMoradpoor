@@ -130,7 +130,6 @@
       <a href="https://www.rstudio.com/" title="R Studio"><img alt="R Studio" src="https://img.shields.io/badge/R%20Studio-75AADB.svg?logo=rstudio&logoColor=white"></a>
       <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
       <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="https://www.office.com/"><img alt="Microsoft Office" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white"></a>
       <a href="https://discord.com/"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="https://insomnia.rest/"><img alt="Postman" src="https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=white"></a>
       <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
