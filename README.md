@@ -128,8 +128,10 @@
       <a href="https://filezilla-project.org/"><img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000.svg?logo=filezilla&logoColor=white"></a>
       <a href="https://notepad-plus-plus.org/"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepadplusplus&logoColor=white"></a>
       <a href="https://www.rstudio.com/" title="R Studio"><img alt="R Studio" src="https://img.shields.io/badge/R%20Studio-75AADB.svg?logo=rstudio&logoColor=white"></a>
-      <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?logo=visual-studio&logoColor=white"></a>
       <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
+      <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
+      <a href="https://www.uvicorn.org/"><img alt="Uvicorn" src="https://img.shields.io/badge/Uvicorn-2B6BBF.svg?logo=uvicorn&logoColor=white"></a>
+      <a href="https://gunicorn.org/"><img alt="Gunicorn" src="https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white"></a>
       <a href="https://discord.com/"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
       <a href="https://insomnia.rest/"><img alt="Postman" src="https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=white"></a>
       <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
