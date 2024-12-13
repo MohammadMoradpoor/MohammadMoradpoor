@@ -25,9 +25,6 @@
   <a href="https://www.youtube.com/@Donatello78">
     <img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white" alt="YouTube">
   </a> -->
-<!--   <a href="https://t.me/+54Kl8M-SGohjYTY8">
-    <img src="https://img.shields.io/badge/Telegram-0088CC.svg?logo=Telegram&logoColor=white" alt="Telegram">
-  </a> -->
   <a href="https://www.kaggle.com/mohammad696">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white" alt="Kaggle">
   </a>
