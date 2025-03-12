@@ -39,9 +39,9 @@
 <br/>
 
 <!-- Social badges section -->
-<p align="center">
+<!-- <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MohammadMoradpoor&label=Profile%20Views&color=F85D7F&style=for-the-badge&logo=github" alt="Profile Views" />
-</p>
+</p> -->
 
 <details open> 
 <summary><h3><em>📕 My Top Open Source Projects</em></h3></summary>
