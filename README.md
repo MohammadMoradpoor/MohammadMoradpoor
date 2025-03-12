@@ -137,7 +137,7 @@
 <details> 
   <summary><h3><em>📊 Github Stats and Activity</h3></summary>
 
-  <h3>🔥 Streak Stats</h3>
+  <h4>🔥 Streak Stats</h3>
   <p>
     <a href="https://github.com/MohammadMoradpoor">
       <img title="🔥 Mohammad Moradpoor's GitHub streak" alt="MohammadMoradpoor's streak" src="https://streak-stats.demolab.com/?user=MohammadMoradpoor&theme=monokai-metallian&hide_border=true"/>
