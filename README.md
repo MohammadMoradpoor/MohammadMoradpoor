@@ -40,8 +40,7 @@
 
 <!-- Social badges section -->
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img alt="views" title="GitHub profile views" src="https://visitcount.itsvg.in/api?id=MohammadMoradpoor&label=Profile%20Views&color=11&icon=5&pretty=true"/></a>
+  <img src="https://komarev.com/ghpvc/?username=MohammadMoradpoor&label=Profile%20Views&color=F85D7F&style=for-the-badge&logo=github" alt="Profile Views" />
 </p>
 
 <details open> 
