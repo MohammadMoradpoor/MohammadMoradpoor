@@ -44,6 +44,20 @@
   <img src="https://komarev.com/ghpvc/?username=MohammadMoradpoor&label=Profile%20Views&color=F85D7F&style=for-the-badge&logo=github" alt="Profile Views" />
 </p> -->
 
+<details open>
+<summary><h3><em>🚀 Featured Projects (Private Repositories)</em></h3></summary>
+
+  <p><em>These projects are private repositories focused on production-grade AI engineering, agent orchestration, and autonomous execution systems.</em></p>
+
+| Project | Description |
+| --- | --- |
+| **AgentDeck** `🔒 Private` | Agentic AI platform for orchestrating multi-agent task execution and decision flows. Built for **Autonomous Workflows** with Temporal-based orchestration, API-driven agents, and operational visibility. |
+| **medical-ai-analyzer** `🔒 Private` | AI-driven medical analysis and diagnostic assistance system. Combines specialized medical agents with **Chatbot Integration** for report interpretation, follow-up Q&A, and clinical support workflows. |
+| **nexus-ai** `🔒 Private` | Centralized AI hub for advanced LLM operations, retrieval, routing, and guardrailed responses. Designed for **Agentic AI** services and scalable **Autonomous Workflows** across integrated tools. |
+| **online-store** `🔒 Private` | Modern e-commerce platform enhanced with AI assistants, **Chatbot Integration**, and intelligent recommendations. Connects commerce flows with autonomous service logic for smarter user journeys. |
+
+</details>
+
 <details open> 
 <summary><h3><em>📕 My Top Open Source Projects</em></h3></summary>
 
@@ -63,75 +77,17 @@
 </details>
 
 <details> 
-  <summary><h3><em>🛠️ TECH Skills</h3></summary>
+  <summary><h3><em>🛠️ AI Engineering Toolbox</h3></summary>
 
-  <h4><em>👨‍💻 Programming and Markup Languages</h4>
+| Domain | Technologies |
+| --- | --- |
+| **Orchestration & Workflow** | ![Temporal.io](https://img.shields.io/badge/Temporal.io-Autonomous%20Workflows-0F172A?style=flat-square) ![Workflow Engine](https://img.shields.io/badge/Event--Driven-Orchestration-1F2937?style=flat-square) |
+| **AI & LLM Frameworks** | ![OpenAI SDK](https://img.shields.io/badge/OpenAI-SDK-412991?style=flat-square&logo=openai&logoColor=white) ![LangChain](https://img.shields.io/badge/LangChain-Agentic%20Pipelines-0B3B2E?style=flat-square) ![OpenAI Agents](https://img.shields.io/badge/OpenAI%20Agents-Multi--Agent%20Execution-0B3D91?style=flat-square) ![Agentic Frameworks](https://img.shields.io/badge/AutoGPT%20%2F%20CrewAI-Framework%20Patterns-334155?style=flat-square) |
+| **Vector Databases** | ![pgvector](https://img.shields.io/badge/pgvector-Active-1D4ED8?style=flat-square) ![Qdrant](https://img.shields.io/badge/Qdrant-Active-7C3AED?style=flat-square) ![ChromaDB](https://img.shields.io/badge/ChromaDB-Placeholder-475569?style=flat-square) ![Pinecone](https://img.shields.io/badge/Pinecone-Placeholder-475569?style=flat-square) ![Weaviate](https://img.shields.io/badge/Weaviate-Placeholder-475569?style=flat-square) |
+| **Core Backend** | ![Python](https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) |
+| **Core Frontend** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwindcss&logoColor=white) ![Zustand](https://img.shields.io/badge/Zustand-State%20Management-7C2D12?style=flat-square) ![React Query](https://img.shields.io/badge/React%20Query-Data%20Fetching-DC2626?style=flat-square) |
+| **Data & Infrastructure** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-D82C20?style=flat-square&logo=redis&logoColor=white) ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-DA291C?style=flat-square) ![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white) ![Alembic](https://img.shields.io/badge/Alembic-Migrations-1E293B?style=flat-square) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
 
-  <p>
-      <a href="https://github.com/search?q=user%3AMohammadMoradpoor+language%3Apython"><img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AMohammadMoradpoor+language%3Ar"><img alt="R" src="https://img.shields.io/badge/R-276DC3.svg?logo=r&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AMohammadMoradpoor+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AMohammadMoradpoor+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
-      <a href="https://github.com/search?q=user%3AMohammadMoradpoor+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-121011.svg?logo=gnu-bash&logoColor=white"></a>
-  </p>
-  
-  <h4><em>🧰 Frameworks and Libraries</h4>
-
-  <p>
-      <a href="https://numpy.org/"><img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243.svg?logo=numpy&logoColor=white"></a>
-      <a href="https://pandas.pydata.org/"><img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458.svg?logo=pandas&logoColor=white"></a>
-      <a href="https://www.scipy.org/"><img alt="SciPy" src="https://img.shields.io/badge/SciPy-8CAAE6.svg?logo=scipy&logoColor=white"></a>
-      <a href="https://plotly.com/python/"><img alt="Plotly" src="https://img.shields.io/badge/Plotly-3F4F75.svg?logo=plotly&logoColor=white"></a>
-      <a href="https://streamlit.io/" style="background-color:#FF4B4B;"><img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?logo=streamlit&logoColor=white"></a>
-      <a href="https://scikit-learn.org/"><img alt="sklearn" src="https://img.shields.io/badge/scikit--learn-F7931E.svg?logo=scikitlearn&logoColor=white"></a>
-      <a href="https://www.tensorflow.org/"><img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white"></a>
-      <a href="https://keras.io/"><img alt="Keras" src="https://img.shields.io/badge/Keras-D00000.svg?logo=keras&logoColor=white"></a>
-      <a href="https://pytorch.org/"><img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C.svg?logo=pytorch&logoColor=white"></a>
-      <a href="https://spark.apache.org/"><img alt="Apache Spark" src="https://img.shields.io/badge/Apache%20Spark-E25A1C.svg?logo=apache-spark&logoColor=white"></a>
-      <a href="https://flask.palletsprojects.com/"><img alt="Flask" src="https://img.shields.io/badge/Flask-000000.svg?logo=flask&logoColor=white"></a></a>
-      <a href="https://opencv.org/"><img alt="OpenCV" src="https://img.shields.io/badge/Open%20CV-5C3EE8.svg?logo=opencv&logoColor=white"></a>
-      <a href="https://fastapi.tiangolo.com/"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688.svg?logo=fastapi&logoColor=white"></a>
-      <a href="https://www.docker.com/"><img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed.svg?logo=docker&logoColor=white"></a>
-      <a href="https://www.selenium.dev/"><img alt="Selenium" src="https://img.shields.io/badge/Selenium-43B02A.svg?logo=selenium&logoColor=white"></a>
-
-  </p>
-  
-  <h4><em>🗄️ Databases and Cloud Hosting</h4>
-
-  <p>
-      <a href="https://www.mysql.com/"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-00f.svg?logo=mysql&logoColor=white"></a>
-      <a href="https://www.postgresql.org/"><img alt="PostgreSQL" src ="https://img.shields.io/badge/PostgreSQL-316192.svg?logo=postgresql&logoColor=white"></a>
-      <a href="https://www.microsoft.com/en-us/sql-server"><img alt="SQL Server" src="https://img.shields.io/badge/SQL_Server-CC2927.svg?logo=microsoft-sql-server&logoColor=white"></a>
-      <a href="https://www.sqlite.org/index.html"><img alt="SQLite" src ="https://img.shields.io/badge/SQLite-07405e.svg?logo=sqlite&logoColor=white"></a>
-      <a href="https://pages.github.com"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-327FC7.svg?logo=github&logoColor=white"></a>
-      <a href="https://redis.io"><img alt="Redis" src="https://img.shields.io/badge/Redis-D82C20.svg?logo=redis&logoColor=white"></a>
-
-  <h4><em>💻 Software and Tools</h4>
-
-  <p>
-      <a href="https://www.anaconda.com/"><img alt="Anaconda" src="https://img.shields.io/badge/Anaconda-42B029.svg?logo=anaconda&logoColor=white"></a>
-      <a href="https://jupyter.org/"><img alt="Jupyter" src="https://img.shields.io/badge/Jupyter-F37626.svg?logo=Jupyter&logoColor=white"></a>
-      <a href="https://www.jetbrains.com/pycharm/"><img alt="PyCharm" src="https://img.shields.io/badge/PyCharm-000000.svg?logo=pycharm&logoColor=white"></a>
-      <a href="https://code.visualstudio.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-      <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-      <a href="https://desktop.github.com/"><img alt="GitHub Desktop" src="https://img.shields.io/badge/GitHub%20Desktop-8034A9.svg?logo=github&logoColor=white"></a>
-      <a href="https://about.gitlab.com/"><img alt="GitLab" src="https://img.shields.io/badge/GitLab-FCA121.svg?logo=gitlab&logoColor=white"></a>
-      <a href="https://www.kaggle.com/"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-20BEFF.svg?logo=kaggle&logoColor=white"></a>
-      <a href="https://databricks.com/"><img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF813F.svg?logo=databricks&logoColor=white"></a>
-      <a href="https://grafana.com/"><img alt="Grafana" src="https://img.shields.io/badge/Grafana-F46800.svg?logo=grafana&logoColor=white"></a>
-      <a href="https://www.vmware.com/"><img alt="VMware Virtual Machine" src="https://img.shields.io/badge/VMware%20Virtual%20Machine-607078.svg?logo=vmware&logoColor=white"></a>
-      <a href="https://www.linux.org/"><img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=white"></a>
-      <a href="https://ubuntu.com/"><img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420.svg?logo=ubuntu&logoColor=white"></a>
-      <a href="https://filezilla-project.org/"><img alt="FileZilla" src="https://img.shields.io/badge/FileZilla-BF0000.svg?logo=filezilla&logoColor=white"></a>
-      <a href="https://notepad-plus-plus.org/"><img alt="Notepad++" src="https://img.shields.io/badge/Notepad++-90E59A.svg?logo=notepadplusplus&logoColor=white"></a>
-      <a href="https://www.rstudio.com/" title="R Studio"><img alt="R Studio" src="https://img.shields.io/badge/R%20Studio-75AADB.svg?logo=rstudio&logoColor=white"></a>
-      <a href="https://stackoverflow.com/"><img alt="Stack Overflow" src="https://img.shields.io/badge/-Stack%20Overflow-FE7A16?logo=stack-overflow&logoColor=white"></a>
-      <a href="https://www.uvicorn.org/"><img alt="Uvicorn" src="https://img.shields.io/badge/Uvicorn-2B6BBF.svg?logo=uvicorn&logoColor=white"></a>
-      <a href="https://gunicorn.org/"><img alt="Gunicorn" src="https://img.shields.io/badge/Gunicorn-499848.svg?logo=gunicorn&logoColor=white"></a>
-      <a href="https://discord.com/"><img alt="Discord" src="https://img.shields.io/badge/-Discord-5865F2.svg?logo=discord&logoColor=white"></a>
-      <a href="https://insomnia.rest/"><img alt="Postman" src="https://img.shields.io/badge/Insomnia-5849BE?logo=insomnia&logoColor=white"></a>
-      <a href="https://www.postman.com/"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
-  </p>
 </details>
 
 <details> 
