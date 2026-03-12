@@ -35,43 +35,48 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <strong>AgentDeck</strong> <code>🔒 PVT</code><br/><br/>
-      <strong>Architecture Focus</strong><br/>
-      Enterprise automation for multi-step case lifecycles with deterministic execution and controlled human handoff.<br/><br/>
-      <strong>Technical Core</strong><br/>
-      Temporal · FastAPI · Next.js · OpenAI SDK · pgvector · Redis · Multi-agent telemetry
+      <strong>AgentDeck</strong> <sup><code>🔒 PVT</code></sup><br/><br/>
+      <sub><b>ARCHITECTURE FOCUS</b></sub><br/>
+      Enterprise-grade workflow automation for multi-step case lifecycles with deterministic execution and controlled human handoff.<br/><br/>
+      <sub><b>TECHNICAL CORE</b></sub><br/>
+      <code>Temporal</code> <code>FastAPI</code> <code>Next.js</code><br/>
+      <code>OpenAI SDK</code> <code>pgvector</code> <code>Redis</code> <code>Multi-Agent Telemetry</code>
     </td>
     <td width="50%" valign="top">
-      <strong>medical-ai-analyzer</strong> <code>🔒 PVT</code><br/><br/>
-      <strong>Architecture Focus</strong><br/>
+      <strong>medical-ai-analyzer</strong> <sup><code>🔒 PVT</code></sup><br/><br/>
+      <sub><b>ARCHITECTURE FOCUS</b></sub><br/>
       Clinical report intelligence with explainable diagnostics support, contextual chat, and ML-driven interpretation layers.<br/><br/>
-      <strong>Technical Core</strong><br/>
-      FastAPI · Next.js · OpenAI SDK · Whisper · Specialized medical agents · Structured parsing · ML signal/imaging workflows
+      <sub><b>TECHNICAL CORE</b></sub><br/>
+      <code>FastAPI</code> <code>Next.js</code> <code>OpenAI SDK</code> <code>Whisper</code><br/>
+      <code>Medical Agents</code> <code>Structured Parsing</code> <code>Signal & Imaging ML</code>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>nexus-ai</strong> <code>🔒 PVT</code><br/><br/>
-      <strong>Architecture Focus</strong><br/>
+      <strong>nexus-ai</strong> <sup><code>🔒 PVT</code></sup><br/><br/>
+      <sub><b>ARCHITECTURE FOCUS</b></sub><br/>
       Unified LLM integration layer for routing, retrieval, guardrails, and scalable service composition across products.<br/><br/>
-      <strong>Technical Core</strong><br/>
-      FastAPI · OpenAI SDK · pgvector · Qdrant · Context controls · API orchestration
+      <sub><b>TECHNICAL CORE</b></sub><br/>
+      <code>FastAPI</code> <code>OpenAI SDK</code> <code>pgvector</code> <code>Qdrant</code><br/>
+      <code>Context Controls</code> <code>API Orchestration</code>
     </td>
     <td width="50%" valign="top">
-      <strong>online-store</strong> <code>🔒 PVT</code><br/><br/>
-      <strong>Architecture Focus</strong><br/>
-      AI-enhanced commerce focused on conversational UX, recommendation quality, and resilient transaction architecture.<br/><br/>
-      <strong>Technical Core</strong><br/>
-      Next.js · Node.js/Express · Chatbot integration · Recommendation pipelines · PostgreSQL · Redis
+      <strong>online-store</strong> <sup><code>🔒 PVT</code></sup><br/><br/>
+      <sub><b>ARCHITECTURE FOCUS</b></sub><br/>
+      AI-enhanced commerce architecture focused on conversational UX, recommendation quality, and resilient transaction flows.<br/><br/>
+      <sub><b>TECHNICAL CORE</b></sub><br/>
+      <code>Next.js</code> <code>Node.js</code> <code>Express</code> <code>Chatbot Integration</code><br/>
+      <code>Recommendation Pipelines</code> <code>PostgreSQL</code> <code>Redis</code>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <strong>voiceagentframework</strong> <code>🔒 PVT</code><br/><br/>
-      <strong>Architecture Focus</strong><br/>
-      High-performance Voice AI system for realtime inbound/outbound interactions, low-latency agent switching, and durable billing workflows.<br/><br/>
-      <strong>Technical Core</strong><br/>
-      LiveKit Agents · Deepgram STT · Cartesia TTS · OpenAI SDK · Twilio · Temporal · PostgreSQL · Silero VAD
+      <strong>voiceagentframework</strong> <sup><code>🔒 PVT</code></sup><br/><br/>
+      <sub><b>ARCHITECTURE FOCUS</b></sub><br/>
+      High-performance Voice AI system for real-time inbound/outbound interactions, low-latency agent switching, and durable billing workflows.<br/><br/>
+      <sub><b>TECHNICAL CORE</b></sub><br/>
+      <code>LiveKit Agents</code> <code>Deepgram STT</code> <code>Cartesia TTS</code> <code>OpenAI SDK</code><br/>
+      <code>Twilio</code> <code>Temporal</code> <code>PostgreSQL</code> <code>Silero VAD</code>
     </td>
   </tr>
 </table>
@@ -189,5 +194,7 @@
 <details>
   <summary><b>Random Dev Quote</b></summary>
   <br />
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=transparent" alt="Random Dev Quote" />
+
+![Random Dev Quote (Light)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light#gh-light-mode-only)
+![Random Dev Quote (Dark)](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight#gh-dark-mode-only)
 </details>
