@@ -90,7 +90,7 @@
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <strong>voiceagentframework</strong> <sup><code>🔒 PVT</code></sup><br/><br/>
+      <strong>voiceops-ai</strong> <sup><code>🔒 PVT</code></sup><br/><br/>
       <sub><b>ARCHITECTURE FOCUS</b></sub><br/>
       High-performance Voice AI system for real-time inbound/outbound interactions, low-latency agent switching, and durable billing workflows.<br/><br/>
       <sub><b>TECHNICAL CORE</b></sub><br/>
@@ -104,7 +104,7 @@
       <img src="https://img.shields.io/badge/Silero%20VAD-475569?style=flat-square" alt="Silero VAD" />
     </td>
     <td width="50%" valign="top">
-      <strong>idpagent</strong> <sup><code>🔒 PVT</code></sup><br/><br/>
+      <strong>docintel-ai</strong> <sup><code>🔒 PVT</code></sup><br/><br/>
       <sub><b>ARCHITECTURE FOCUS</b></sub><br/>
       Intelligent document-processing architecture combining director-actor agents, OCR/vision extraction, and queued execution for reliable high-volume workflows.<br/><br/>
       <sub><b>TECHNICAL CORE</b></sub><br/>
