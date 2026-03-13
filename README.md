@@ -204,6 +204,16 @@
       <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
     </td>
   </tr>
+  <tr>
+    <td><strong>Deployment & Infrastructure</strong></td>
+    <td>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+      <img src="https://img.shields.io/badge/Linux%20Server-0F172A?style=flat-square&logo=linux&logoColor=white" alt="Linux Server" />
+      <img src="https://img.shields.io/badge/Certbot-2563EB?style=flat-square" alt="Certbot" />
+      <img src="https://img.shields.io/badge/SSL%2FTLS%20Automation-1D4ED8?style=flat-square" alt="SSL/TLS Automation" />
+      <img src="https://img.shields.io/badge/Production%20Deployment-334155?style=flat-square" alt="Production Deployment" />
+    </td>
+  </tr>
 </table>
 
 ---
