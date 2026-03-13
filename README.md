@@ -70,13 +70,21 @@
     </td>
   </tr>
   <tr>
-    <td colspan="2" valign="top">
+    <td width="50%" valign="top">
       <strong>voiceagentframework</strong> <sup><code>🔒 PVT</code></sup><br/><br/>
       <sub><b>ARCHITECTURE FOCUS</b></sub><br/>
       High-performance Voice AI system for real-time inbound/outbound interactions, low-latency agent switching, and durable billing workflows.<br/><br/>
       <sub><b>TECHNICAL CORE</b></sub><br/>
       <code>LiveKit Agents</code> <code>Deepgram STT</code> <code>Cartesia TTS</code> <code>OpenAI SDK</code><br/>
       <code>Twilio</code> <code>Temporal</code> <code>PostgreSQL</code> <code>Silero VAD</code>
+    </td>
+    <td width="50%" valign="top">
+      <strong>idpagent</strong> <sup><code>🔒 PVT</code></sup><br/><br/>
+      <sub><b>ARCHITECTURE FOCUS</b></sub><br/>
+      Intelligent document-processing architecture combining director-actor agents, OCR/vision extraction, and queued execution for reliable high-volume workflows.<br/><br/>
+      <sub><b>TECHNICAL CORE</b></sub><br/>
+      <code>FastAPI</code> <code>OpenAI Agents SDK</code> <code>PyMuPDF</code> <code>PDF2Image</code><br/>
+      <code>Pydantic</code> <code>AWS S3</code> <code>Job Queue</code> <code>Docker</code>
     </td>
   </tr>
 </table>
