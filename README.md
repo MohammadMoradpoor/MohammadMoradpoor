@@ -75,7 +75,7 @@
       <img src="https://img.shields.io/badge/API%20Orchestration-334155?style=flat-square" alt="API Orchestration" />
     </td>
     <td width="50%" valign="top">
-      <strong>online-store</strong> <sup><code>🔒 PVT</code></sup><br/><br/>
+      <strong>commerceops-ai</strong> <sup><code>🔒 PVT</code></sup><br/><br/>
       <sub><b>ARCHITECTURE FOCUS</b></sub><br/>
       AI-enhanced commerce architecture focused on conversational UX, recommendation quality, and resilient transaction flows.<br/><br/>
       <sub><b>TECHNICAL CORE</b></sub><br/>
