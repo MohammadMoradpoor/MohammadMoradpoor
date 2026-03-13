@@ -39,16 +39,26 @@
       <sub><b>ARCHITECTURE FOCUS</b></sub><br/>
       Enterprise-grade workflow automation for multi-step case lifecycles with deterministic execution and controlled human handoff.<br/><br/>
       <sub><b>TECHNICAL CORE</b></sub><br/>
-      <code>Temporal</code> <code>FastAPI</code> <code>Next.js</code><br/>
-      <code>OpenAI SDK</code> <code>pgvector</code> <code>Redis</code> <code>Multi-Agent Telemetry</code>
+      <img src="https://img.shields.io/badge/Temporal-111827?style=flat-square&logo=temporal&logoColor=white" alt="Temporal" />
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/OpenAI%20SDK-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI SDK" /><br/>
+      <img src="https://img.shields.io/badge/pgvector-1D4ED8?style=flat-square" alt="pgvector" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+      <img src="https://img.shields.io/badge/Multi--Agent%20Telemetry-334155?style=flat-square" alt="Multi-Agent Telemetry" />
     </td>
     <td width="50%" valign="top">
       <strong>medical-ai-analyzer</strong> <sup><code>🔒 PVT</code></sup><br/><br/>
       <sub><b>ARCHITECTURE FOCUS</b></sub><br/>
       Clinical report intelligence with explainable diagnostics support, contextual chat, and ML-driven interpretation layers.<br/><br/>
       <sub><b>TECHNICAL CORE</b></sub><br/>
-      <code>FastAPI</code> <code>Next.js</code> <code>OpenAI SDK</code> <code>Whisper</code><br/>
-      <code>Medical Agents</code> <code>Structured Parsing</code> <code>Signal & Imaging ML</code>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/OpenAI%20SDK-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI SDK" />
+      <img src="https://img.shields.io/badge/OpenAI%20Whisper-0EA5E9?style=flat-square" alt="OpenAI Whisper" /><br/>
+      <img src="https://img.shields.io/badge/Medical%20Agents-0F172A?style=flat-square" alt="Medical Agents" />
+      <img src="https://img.shields.io/badge/Structured%20Parsing-334155?style=flat-square" alt="Structured Parsing" />
+      <img src="https://img.shields.io/badge/Signal%20%26%20Imaging%20ML-2563EB?style=flat-square" alt="Signal and Imaging ML" />
     </td>
   </tr>
   <tr>
@@ -57,16 +67,25 @@
       <sub><b>ARCHITECTURE FOCUS</b></sub><br/>
       Unified LLM integration layer for routing, retrieval, guardrails, and scalable service composition across products.<br/><br/>
       <sub><b>TECHNICAL CORE</b></sub><br/>
-      <code>FastAPI</code> <code>OpenAI SDK</code> <code>pgvector</code> <code>Qdrant</code><br/>
-      <code>Context Controls</code> <code>API Orchestration</code>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/OpenAI%20SDK-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI SDK" />
+      <img src="https://img.shields.io/badge/pgvector-1D4ED8?style=flat-square" alt="pgvector" />
+      <img src="https://img.shields.io/badge/Qdrant-7C3AED?style=flat-square" alt="Qdrant" /><br/>
+      <img src="https://img.shields.io/badge/Context%20Controls-1E293B?style=flat-square" alt="Context Controls" />
+      <img src="https://img.shields.io/badge/API%20Orchestration-334155?style=flat-square" alt="API Orchestration" />
     </td>
     <td width="50%" valign="top">
       <strong>online-store</strong> <sup><code>🔒 PVT</code></sup><br/><br/>
       <sub><b>ARCHITECTURE FOCUS</b></sub><br/>
       AI-enhanced commerce architecture focused on conversational UX, recommendation quality, and resilient transaction flows.<br/><br/>
       <sub><b>TECHNICAL CORE</b></sub><br/>
-      <code>Next.js</code> <code>Node.js</code> <code>Express</code> <code>Chatbot Integration</code><br/>
-      <code>Recommendation Pipelines</code> <code>PostgreSQL</code> <code>Redis</code>
+      <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+      <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
+      <img src="https://img.shields.io/badge/Chatbot%20Integration-0F172A?style=flat-square" alt="Chatbot Integration" /><br/>
+      <img src="https://img.shields.io/badge/Recommendation%20Pipelines-2563EB?style=flat-square" alt="Recommendation Pipelines" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
     </td>
   </tr>
   <tr>
@@ -75,16 +94,28 @@
       <sub><b>ARCHITECTURE FOCUS</b></sub><br/>
       High-performance Voice AI system for real-time inbound/outbound interactions, low-latency agent switching, and durable billing workflows.<br/><br/>
       <sub><b>TECHNICAL CORE</b></sub><br/>
-      <code>LiveKit Agents</code> <code>Deepgram STT</code> <code>Cartesia TTS</code> <code>OpenAI SDK</code><br/>
-      <code>Twilio</code> <code>Temporal</code> <code>PostgreSQL</code> <code>Silero VAD</code>
+      <img src="https://img.shields.io/badge/LiveKit%20Agents-0EA5E9?style=flat-square" alt="LiveKit Agents" />
+      <img src="https://img.shields.io/badge/Deepgram%20STT-6D28D9?style=flat-square" alt="Deepgram STT" />
+      <img src="https://img.shields.io/badge/Cartesia%20TTS-0284C7?style=flat-square" alt="Cartesia TTS" />
+      <img src="https://img.shields.io/badge/OpenAI%20SDK-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI SDK" /><br/>
+      <img src="https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=twilio&logoColor=white" alt="Twilio" />
+      <img src="https://img.shields.io/badge/Temporal-111827?style=flat-square&logo=temporal&logoColor=white" alt="Temporal" />
+      <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+      <img src="https://img.shields.io/badge/Silero%20VAD-475569?style=flat-square" alt="Silero VAD" />
     </td>
     <td width="50%" valign="top">
       <strong>idpagent</strong> <sup><code>🔒 PVT</code></sup><br/><br/>
       <sub><b>ARCHITECTURE FOCUS</b></sub><br/>
       Intelligent document-processing architecture combining director-actor agents, OCR/vision extraction, and queued execution for reliable high-volume workflows.<br/><br/>
       <sub><b>TECHNICAL CORE</b></sub><br/>
-      <code>FastAPI</code> <code>OpenAI Agents SDK</code> <code>PyMuPDF</code> <code>PDF2Image</code><br/>
-      <code>Pydantic</code> <code>AWS S3</code> <code>Job Queue</code> <code>Docker</code>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
+      <img src="https://img.shields.io/badge/OpenAI%20Agents%20SDK-1E3A8A?style=flat-square" alt="OpenAI Agents SDK" />
+      <img src="https://img.shields.io/badge/PyMuPDF-1F2937?style=flat-square" alt="PyMuPDF" />
+      <img src="https://img.shields.io/badge/PDF2Image-334155?style=flat-square" alt="PDF2Image" /><br/>
+      <img src="https://img.shields.io/badge/Pydantic-E92063?style=flat-square" alt="Pydantic" />
+      <img src="https://img.shields.io/badge/AWS%20S3-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS S3" />
+      <img src="https://img.shields.io/badge/Job%20Queue-0F172A?style=flat-square" alt="Job Queue" />
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
     </td>
   </tr>
 </table>
