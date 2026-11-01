@@ -4,7 +4,7 @@
     "login": "MohammadMoradpoor",
     "name": "Mohammad Moradpoor",
     "followers": 59,
-    "originalRepositoryCount": 4
+    "originalRepositoryCount": 2
   },
   "metrics": {
     "ownedStars": 4,
@@ -18,13 +18,13 @@
   },
   "ranking": {
     "followerWorld": {
-      "position": 291127,
+      "position": 291083,
       "measuredValue": 59,
       "source": "GitHub Search",
       "method": "users with more followers plus one"
     },
     "topProjectWorld": {
-      "position": 5161200,
+      "position": 5161279,
       "measuredValue": 4,
       "repository": "MohammadMoradpoor/MohammadMoradpoor",
       "source": "GitHub Search",
@@ -70,99 +70,13 @@
       "url": "https://github.com/MohammadMoradpoor/MohammadMoradpoor",
       "stars": 4,
       "forks": 0,
-      "updatedAt": "2026-03-13T09:01:18Z",
+      "updatedAt": "2026-11-01T23:34:08Z",
       "createdAt": "2023-06-14T11:50:30Z",
-      "languages": []
-    },
-    {
-      "name": "ClinMira-AI",
-      "nameWithOwner": "MohammadMoradpoor/ClinMira-AI",
-      "url": "https://github.com/MohammadMoradpoor/ClinMira-AI",
-      "stars": 0,
-      "forks": 0,
-      "updatedAt": "2026-06-08T15:46:29Z",
-      "createdAt": "2026-06-08T15:46:19Z",
       "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "percentage": 46
-        },
         {
           "name": "JavaScript",
           "color": "#f1e05a",
-          "percentage": 22.6
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "percentage": 16.6
-        },
-        {
-          "name": "Python",
-          "color": "#3572A5",
-          "percentage": 8.1
-        },
-        {
-          "name": "PLpgSQL",
-          "color": "#336790",
-          "percentage": 5.7
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "percentage": 0.7
-        },
-        {
-          "name": "Shell",
-          "color": "#89e051",
-          "percentage": 0.2
-        }
-      ]
-    },
-    {
-      "name": "nexus-ai",
-      "nameWithOwner": "MohammadMoradpoor/nexus-ai",
-      "url": "https://github.com/MohammadMoradpoor/nexus-ai",
-      "stars": 0,
-      "forks": 0,
-      "updatedAt": "2026-03-11T22:16:14Z",
-      "createdAt": "2026-03-03T13:11:57Z",
-      "languages": [
-        {
-          "name": "TypeScript",
-          "color": "#3178c6",
-          "percentage": 59.3
-        },
-        {
-          "name": "Python",
-          "color": "#3572A5",
-          "percentage": 35.4
-        },
-        {
-          "name": "HTML",
-          "color": "#e34c26",
-          "percentage": 4.4
-        },
-        {
-          "name": "CSS",
-          "color": "#663399",
-          "percentage": 0.7
-        },
-        {
-          "name": "Dockerfile",
-          "color": "#384d54",
-          "percentage": 0.1
-        },
-        {
-          "name": "JavaScript",
-          "color": "#f1e05a",
-          "percentage": 0
-        },
-        {
-          "name": "Mako",
-          "color": "#7e858d",
-          "percentage": 0
+          "percentage": 100
         }
       ]
     },
@@ -210,7 +124,7 @@
   ],
   "ecosystemOrganizations": [],
   "recentContributions": [],
-  "tagline": "Building agentic LLM systems and ML backends.",
+  "tagline": "Agentic AI systems and durable workflows.",
   "roles": [
     "AI Software Engineer",
     "Applied AI",
@@ -219,10 +133,280 @@
   ],
   "techStack": [
     "Python",
-    "FastAPI",
     "TypeScript",
-    "PyTorch",
-    "PostgreSQL"
+    "FastAPI",
+    "SQL",
+    "Temporal"
+  ],
+  "presentation": {
+    "mode": "portfolio-first",
+    "showFollowerRank": false,
+    "showFollowerCount": false,
+    "showBuilderIndex": false,
+    "showGitRanks": false,
+    "showCountryRankings": false,
+    "showPopularityMetrics": false,
+    "showEmptyContributions": false,
+    "showEmptyOrganizations": false,
+    "showEngineeringHero": true,
+    "showEngineeringFocus": true,
+    "showCoreCapabilities": true,
+    "showFeaturedProjects": true,
+    "showTechStack": true,
+    "showProjectDetails": true,
+    "excludeProfileRepository": true,
+    "maxFeaturedProjects": 3,
+    "heroHeading": "AI ENGINEERING",
+    "heroSupport": "Model calls stay inside application workflows.",
+    "radar": {
+      "mode": "editorial-focus",
+      "title": "ENGINEERING FOCUS",
+      "axes": [
+        {
+          "key": "agentSystems",
+          "label": "AGENT SYSTEMS",
+          "emphasis": 0.86
+        },
+        {
+          "key": "workflows",
+          "label": "WORKFLOWS",
+          "emphasis": 0.84
+        },
+        {
+          "key": "backend",
+          "label": "BACKEND",
+          "emphasis": 0.78
+        },
+        {
+          "key": "voiceAI",
+          "label": "VOICE AI",
+          "emphasis": 0.82
+        },
+        {
+          "key": "idp",
+          "label": "IDP",
+          "emphasis": 0.83
+        }
+      ]
+    },
+    "toolchain": {
+      "title": "PLATFORM & DELIVERY TOOLING",
+      "subtitle": "PLATFORMS · INFRASTRUCTURE · PROTOCOLS",
+      "items": [
+        {
+          "id": "linux",
+          "label": "Linux",
+          "kind": "platform"
+        },
+        {
+          "id": "aws",
+          "label": "AWS",
+          "kind": "cloud-provider"
+        },
+        {
+          "id": "cloud",
+          "label": "Cloud",
+          "kind": "generic-infrastructure"
+        },
+        {
+          "id": "deployment",
+          "label": "Deployment",
+          "kind": "engineering-practice"
+        },
+        {
+          "id": "docker",
+          "label": "Docker",
+          "kind": "container-tooling"
+        },
+        {
+          "id": "kubernetes",
+          "label": "Kubernetes",
+          "kind": "orchestration-platform"
+        },
+        {
+          "id": "mcp",
+          "label": "MCP",
+          "kind": "integration-protocol"
+        }
+      ]
+    },
+    "highlights": [
+      {
+        "title": "Durable workflow execution",
+        "detail": "Matruno · Temporal · conditional review",
+        "summary": "A Matter run keeps its state and records. Review branches from the task."
+      },
+      {
+        "title": "Voice agent handoff",
+        "detail": "VoiceOps · LiveKit · Twilio · three roles",
+        "summary": "A call moves across greeter, consultant, and scheduler. Stored flows are not the live session."
+      },
+      {
+        "title": "Orchestrated IDP",
+        "detail": "DocIntel · Agent orchestration · OCR/Vision",
+        "summary": "An orchestrating agent coordinates specialized document agents and structured extraction."
+      }
+    ],
+    "capabilities": [
+      {
+        "label": "MULTI-AGENT SYSTEMS",
+        "note": "Roles, tools, and delegation"
+      },
+      {
+        "label": "SOFTWARE ARCHITECTURE",
+        "note": "Services and UI systems"
+      },
+      {
+        "label": "LLM INTEGRATION",
+        "note": "APIs and structured output"
+      },
+      {
+        "label": "REAL-TIME SYSTEMS",
+        "note": "Sessions and live events"
+      }
+    ]
+  },
+  "portfolioProjects": [
+    {
+      "id": "matruno",
+      "name": "Matruno",
+      "priority": 1,
+      "latest": true,
+      "visibility": "private",
+      "publicWebsite": "https://www.matruno.com/",
+      "diagram": "none",
+      "headline": "Governed AI workflows for legal operations",
+      "summary": "Durable legal workflows. Review can branch.",
+      "detail": "LATEST · GOVERNED AI WORKFLOWS",
+      "architecture": "Records sit beside the run. Review can branch.",
+      "technologies": [
+        "Next.js",
+        "FastAPI",
+        "Temporal",
+        "PostgreSQL"
+      ],
+      "languages": [
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "percentage": 60.6
+        },
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "percentage": 37.6
+        },
+        {
+          "name": "CSS",
+          "color": "#563d7c",
+          "percentage": 0.8
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "percentage": 0.7
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "percentage": 0.1
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "percentage": 0.1
+        },
+        {
+          "name": "Dockerfile",
+          "color": "#384d54",
+          "percentage": 0.1
+        }
+      ],
+      "activity": {
+        "kind": "commit",
+        "at": "2026-10-25T00:51:00Z"
+      },
+      "evidenceLevel": "documented"
+    },
+    {
+      "id": "voiceops-ai",
+      "name": "VoiceOps AI",
+      "priority": 2,
+      "latest": false,
+      "visibility": "private",
+      "publicWebsite": null,
+      "diagram": "none",
+      "headline": "Real-time voice agents with role handoff",
+      "summary": "Handoff across greeter, consultant, and scheduler.",
+      "detail": "REAL-TIME VOICE · AGENT ROUTING",
+      "architecture": "Flow definitions are stored apart from the call.",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "LiveKit",
+        "Twilio"
+      ],
+      "languages": [
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "percentage": 99.1
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "percentage": 0.9
+        }
+      ],
+      "activity": {
+        "kind": "commit",
+        "at": "2026-03-12T12:59:11Z"
+      },
+      "evidenceLevel": "documented"
+    },
+    {
+      "id": "docintel-ai",
+      "name": "DocIntel AI",
+      "priority": 3,
+      "latest": false,
+      "visibility": "private",
+      "publicWebsite": null,
+      "diagram": "none",
+      "headline": "Director-Actor document processing",
+      "summary": "Director-Actor OCR and vision into structured fields.",
+      "detail": "INTELLIGENT DOCUMENT PROCESSING",
+      "architecture": "Director-actor work over OCR and vision.",
+      "technologies": [
+        "Python",
+        "FastAPI",
+        "OpenAI",
+        "PyMuPDF"
+      ],
+      "languages": [
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "percentage": 99.6
+        },
+        {
+          "name": "Dockerfile",
+          "color": "#384d54",
+          "percentage": 0.4
+        }
+      ],
+      "activity": {
+        "kind": "commit",
+        "at": "2026-03-12T18:48:36Z"
+      },
+      "evidenceLevel": "documented"
+    }
+  ],
+  "publicCode": [
+    {
+      "name": "medical-ai-analyzer",
+      "url": "https://github.com/MohammadMoradpoor/medical-ai-analyzer",
+      "note": "Public file-analysis app."
+    }
   ],
   "builderIndex": {
     "score": 9.4,
@@ -271,6 +455,6 @@
     "titlesAndCommitMessagesIncluded": false,
     "policy": "Every contribution row must belong to a repository whose GitHub visibility is PUBLIC."
   },
-  "fingerprint": "3b34871cb29a895a4adcb2b8be4427e42f6dc9bcf28de3bb2ad46fed58a6c97d",
-  "generatedAt": "2026-11-01T17:27:35.728Z"
+  "fingerprint": "811ff80ba206c0ebc627467787ad0d4cb27c1beef94c495a434970b0b07f4f20",
+  "generatedAt": "2026-11-01T23:34:31.466Z"
 }
