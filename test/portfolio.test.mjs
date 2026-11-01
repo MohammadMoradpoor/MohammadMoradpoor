@@ -151,7 +151,7 @@ test('GitHub repository order cannot promote excluded projects', () => {
 
 test('README links Matruno and does not link removed projects', () => {
   assert.match(readme, /https:\/\/www\.matruno\.com\//);
-  assert.match(readme, /medical-ai-analyzer/);
+  assert.doesNotMatch(readme, /medical-ai-analyzer/);
   assert.doesNotMatch(readme, /ClinMira-AI|nexus-ai|example\.com/);
   assert.equal(validatePresentation(presentation).heroHeading, 'AI ENGINEERING');
 });

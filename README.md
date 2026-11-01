@@ -1,9 +1,3 @@
-**Mohammad Moradpoor** — AI Software Engineer. Agentic AI systems and durable workflows.
-
-Flagship product: [Matruno](https://www.matruno.com/), a private legal-operations platform. VoiceOps AI and DocIntel AI are architecture summaries of private systems. Their source is not public.
-
-Public code: [medical-ai-analyzer](https://github.com/MohammadMoradpoor/medical-ai-analyzer)
-
 <a href="./assets/public-builder-profile.png#gh-light-mode-only">
 <picture>
   <source media="(max-width: 600px)" srcset="./assets/public-builder-profile-mobile.png" />
@@ -17,6 +11,6 @@ Public code: [medical-ai-analyzer](https://github.com/MohammadMoradpoor/medical-
 </picture>
 </a>
 
-[LinkedIn](https://www.linkedin.com/in/mohammad-moradpoor) · [All repositories](https://github.com/MohammadMoradpoor?tab=repositories)
+[LinkedIn](https://www.linkedin.com/in/mohammad-moradpoor) · [All repositories](https://github.com/MohammadMoradpoor?tab=repositories) · [Matruno](https://www.matruno.com/)
 
-<sub>The image is generated from curated project notes and public GitHub data. <a href="./RANKING.md">Sources and methodology</a>.</sub>
+Public statistics refresh automatically. [Sources and methodology](RANKING.md).

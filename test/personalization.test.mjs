@@ -314,7 +314,8 @@ test('published sources use the configured account and do not keep the previous 
   assert.equal(config.featuredContributionRepositories, undefined);
 
   const readme = await readFile(new URL('../README.md', import.meta.url), 'utf8');
-  assert.ok(readme.includes(config.tagline));
+  assert.equal(readme.includes(config.tagline), false);
+  assert.match(readme, /Public statistics refresh automatically\. \[Sources and methodology\]\(RANKING\.md\)\./);
   assert.ok(readme.includes(`https://github.com/${config.username}?tab=repositories`));
   for (const link of config.links) assert.ok(readme.includes(link.url));
   assert.doesNotMatch(readme, /example\.com|twitter\.com|github\.com\/sponsors\//i);
