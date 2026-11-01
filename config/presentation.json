@@ -1,0 +1,68 @@
+{
+  "mode": "portfolio-first",
+  "showFollowerRank": false,
+  "showFollowerCount": false,
+  "showBuilderIndex": false,
+  "showGitRanks": false,
+  "showCountryRankings": false,
+  "showPopularityMetrics": false,
+  "showEmptyContributions": false,
+  "showEmptyOrganizations": false,
+  "showEngineeringHero": true,
+  "showEngineeringFocus": true,
+  "showCoreCapabilities": true,
+  "showFeaturedProjects": true,
+  "showTechStack": true,
+  "showProjectDetails": true,
+  "excludeProfileRepository": true,
+  "maxFeaturedProjects": 3,
+  "heroHeading": "AI ENGINEERING",
+  "heroSupport": "Model calls stay inside application workflows.",
+  "radar": {
+    "mode": "editorial-focus",
+    "title": "ENGINEERING FOCUS",
+    "axes": [
+      { "key": "agentSystems", "label": "AGENT SYSTEMS", "emphasis": 0.86 },
+      { "key": "workflows", "label": "WORKFLOWS", "emphasis": 0.84 },
+      { "key": "backend", "label": "BACKEND", "emphasis": 0.78 },
+      { "key": "voiceAI", "label": "VOICE AI", "emphasis": 0.82 },
+      { "key": "idp", "label": "IDP", "emphasis": 0.83 }
+    ]
+  },
+  "toolchain": {
+    "title": "PLATFORM & DELIVERY TOOLING",
+    "subtitle": "PLATFORMS · INFRASTRUCTURE · PROTOCOLS",
+    "items": [
+      { "id": "linux", "label": "Linux", "kind": "platform" },
+      { "id": "aws", "label": "AWS", "kind": "cloud-provider" },
+      { "id": "cloud", "label": "Cloud", "kind": "generic-infrastructure" },
+      { "id": "deployment", "label": "Deployment", "kind": "engineering-practice" },
+      { "id": "docker", "label": "Docker", "kind": "container-tooling" },
+      { "id": "kubernetes", "label": "Kubernetes", "kind": "orchestration-platform" },
+      { "id": "mcp", "label": "MCP", "kind": "integration-protocol" }
+    ]
+  },
+  "highlights": [
+    {
+      "title": "Durable workflow execution",
+      "detail": "Matruno · Temporal · conditional review",
+      "summary": "A Matter run keeps its state and records. Review branches from the task."
+    },
+    {
+      "title": "Voice agent handoff",
+      "detail": "VoiceOps · LiveKit · Twilio · three roles",
+      "summary": "A call moves across greeter, consultant, and scheduler. Stored flows are not the live session."
+    },
+    {
+      "title": "Orchestrated IDP",
+      "detail": "DocIntel · Agent orchestration · OCR/Vision",
+      "summary": "An orchestrating agent coordinates specialized document agents and structured extraction."
+    }
+  ],
+  "capabilities": [
+    { "label": "MULTI-AGENT SYSTEMS", "note": "Roles, tools, and delegation" },
+    { "label": "SOFTWARE ARCHITECTURE", "note": "Services and UI systems" },
+    { "label": "LLM INTEGRATION", "note": "APIs and structured output" },
+    { "label": "REAL-TIME SYSTEMS", "note": "Sessions and live events" }
+  ]
+}

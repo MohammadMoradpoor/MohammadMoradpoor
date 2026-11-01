@@ -1,0 +1,276 @@
+{
+  "schemaVersion": 1,
+  "profile": {
+    "login": "MohammadMoradpoor",
+    "name": "Mohammad Moradpoor",
+    "followers": 59,
+    "originalRepositoryCount": 4
+  },
+  "metrics": {
+    "ownedStars": 4,
+    "commits": 0,
+    "pullRequests": 0,
+    "issues": 0,
+    "reviews": 0,
+    "windowDays": 365,
+    "windowStart": "2025-11-01",
+    "windowEnd": "2026-11-01"
+  },
+  "ranking": {
+    "followerWorld": {
+      "position": 291127,
+      "measuredValue": 59,
+      "source": "GitHub Search",
+      "method": "users with more followers plus one"
+    },
+    "topProjectWorld": {
+      "position": 5161200,
+      "measuredValue": 4,
+      "repository": "MohammadMoradpoor/MohammadMoradpoor",
+      "source": "GitHub Search",
+      "method": "repositories with more stars plus one"
+    },
+    "gitRanksCreator": {
+      "status": "unavailable",
+      "measuredAt": null
+    },
+    "creatorBenchmarks": {
+      "status": "unavailable",
+      "measuredAt": null,
+      "measuredValue": null,
+      "positions": {
+        "world": {
+          "label": "World",
+          "position": null
+        },
+        "india": {
+          "label": "India",
+          "position": null
+        },
+        "usa": {
+          "label": "USA",
+          "position": null
+        },
+        "uk": {
+          "label": "UK",
+          "position": null
+        },
+        "china": {
+          "label": "China",
+          "position": null
+        }
+      },
+      "profileLogin": "MohammadMoradpoor"
+    }
+  },
+  "topRepositories": [
+    {
+      "name": "MohammadMoradpoor",
+      "nameWithOwner": "MohammadMoradpoor/MohammadMoradpoor",
+      "url": "https://github.com/MohammadMoradpoor/MohammadMoradpoor",
+      "stars": 4,
+      "forks": 0,
+      "updatedAt": "2026-03-13T09:01:18Z",
+      "createdAt": "2023-06-14T11:50:30Z",
+      "languages": []
+    },
+    {
+      "name": "ClinMira-AI",
+      "nameWithOwner": "MohammadMoradpoor/ClinMira-AI",
+      "url": "https://github.com/MohammadMoradpoor/ClinMira-AI",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2026-06-08T15:46:29Z",
+      "createdAt": "2026-06-08T15:46:19Z",
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "percentage": 46
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "percentage": 22.6
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "percentage": 16.6
+        },
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "percentage": 8.1
+        },
+        {
+          "name": "PLpgSQL",
+          "color": "#336790",
+          "percentage": 5.7
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "percentage": 0.7
+        },
+        {
+          "name": "Shell",
+          "color": "#89e051",
+          "percentage": 0.2
+        }
+      ]
+    },
+    {
+      "name": "nexus-ai",
+      "nameWithOwner": "MohammadMoradpoor/nexus-ai",
+      "url": "https://github.com/MohammadMoradpoor/nexus-ai",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2026-03-11T22:16:14Z",
+      "createdAt": "2026-03-03T13:11:57Z",
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "percentage": 59.3
+        },
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "percentage": 35.4
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "percentage": 4.4
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "percentage": 0.7
+        },
+        {
+          "name": "Dockerfile",
+          "color": "#384d54",
+          "percentage": 0.1
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "percentage": 0
+        },
+        {
+          "name": "Mako",
+          "color": "#7e858d",
+          "percentage": 0
+        }
+      ]
+    },
+    {
+      "name": "medical-ai-analyzer",
+      "nameWithOwner": "MohammadMoradpoor/medical-ai-analyzer",
+      "url": "https://github.com/MohammadMoradpoor/medical-ai-analyzer",
+      "stars": 0,
+      "forks": 0,
+      "updatedAt": "2026-03-11T13:29:48Z",
+      "createdAt": "2026-03-11T10:47:51Z",
+      "languages": [
+        {
+          "name": "TypeScript",
+          "color": "#3178c6",
+          "percentage": 57.7
+        },
+        {
+          "name": "Python",
+          "color": "#3572A5",
+          "percentage": 34
+        },
+        {
+          "name": "HTML",
+          "color": "#e34c26",
+          "percentage": 7.1
+        },
+        {
+          "name": "Dockerfile",
+          "color": "#384d54",
+          "percentage": 0.6
+        },
+        {
+          "name": "CSS",
+          "color": "#663399",
+          "percentage": 0.5
+        },
+        {
+          "name": "JavaScript",
+          "color": "#f1e05a",
+          "percentage": 0.1
+        }
+      ]
+    }
+  ],
+  "ecosystemOrganizations": [],
+  "recentContributions": [],
+  "tagline": "Building agentic LLM systems and ML backends.",
+  "roles": [
+    "AI Software Engineer",
+    "Applied AI",
+    "LLM Systems",
+    "ML Engineering"
+  ],
+  "techStack": [
+    "Python",
+    "FastAPI",
+    "TypeScript",
+    "PyTorch",
+    "PostgreSQL"
+  ],
+  "builderIndex": {
+    "score": 9.4,
+    "scale": 100,
+    "values": {
+      "creation": 14,
+      "shipping": 0,
+      "collaboration": 0,
+      "maintenance": 0,
+      "community": 44.5
+    },
+    "model": {
+      "version": "1.0.0",
+      "components": {
+        "creation": {
+          "weight": 0.35,
+          "cap": 100000
+        },
+        "shipping": {
+          "weight": 0.25,
+          "cap": 1000
+        },
+        "collaboration": {
+          "weight": 0.2,
+          "pullRequestCap": 250,
+          "reviewCap": 500
+        },
+        "maintenance": {
+          "weight": 0.1,
+          "cap": 250
+        },
+        "community": {
+          "weight": 0.1,
+          "cap": 10000
+        }
+      }
+    },
+    "classification": "Emerging builder",
+    "globalRank": null,
+    "globalRankStatus": "A reproducible comparison corpus is required before this score can claim a world rank."
+  },
+  "privacy": {
+    "visibility": "public-only",
+    "privateRepositoriesIncluded": false,
+    "restrictedContributionTotalsIncluded": false,
+    "titlesAndCommitMessagesIncluded": false,
+    "policy": "Every contribution row must belong to a repository whose GitHub visibility is PUBLIC."
+  },
+  "fingerprint": "3b34871cb29a895a4adcb2b8be4427e42f6dc9bcf28de3bb2ad46fed58a6c97d",
+  "generatedAt": "2026-11-01T17:27:35.728Z"
+}

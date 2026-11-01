@@ -1,0 +1,76 @@
+{
+  "projects": [
+    {
+      "id": "matruno",
+      "name": "Matruno",
+      "priority": 1,
+      "latest": true,
+      "visibility": "private",
+      "publicWebsite": "https://www.matruno.com/",
+      "diagram": "none",
+      "headline": "Governed AI workflows for legal operations",
+      "summary": "Durable legal workflows. Review can branch.",
+      "detail": "LATEST · GOVERNED AI WORKFLOWS",
+      "architecture": "Records sit beside the run. Review can branch.",
+      "technologies": ["Next.js", "FastAPI", "Temporal", "PostgreSQL"],
+      "languages": [
+        { "name": "Python", "color": "#3572A5", "percentage": 60.6 },
+        { "name": "TypeScript", "color": "#3178c6", "percentage": 37.6 },
+        { "name": "CSS", "color": "#563d7c", "percentage": 0.8 },
+        { "name": "JavaScript", "color": "#f1e05a", "percentage": 0.7 },
+        { "name": "HTML", "color": "#e34c26", "percentage": 0.1 },
+        { "name": "Shell", "color": "#89e051", "percentage": 0.1 },
+        { "name": "Dockerfile", "color": "#384d54", "percentage": 0.1 }
+      ],
+      "activity": { "kind": "commit", "at": "2026-10-25T00:51:00Z" },
+      "evidenceLevel": "documented"
+    },
+    {
+      "id": "voiceops-ai",
+      "name": "VoiceOps AI",
+      "priority": 2,
+      "latest": false,
+      "visibility": "private",
+      "publicWebsite": null,
+      "diagram": "none",
+      "headline": "Real-time voice agents with role handoff",
+      "summary": "Handoff across greeter, consultant, and scheduler.",
+      "detail": "REAL-TIME VOICE · AGENT ROUTING",
+      "architecture": "Flow definitions are stored apart from the call.",
+      "technologies": ["Python", "FastAPI", "LiveKit", "Twilio"],
+      "languages": [
+        { "name": "Python", "color": "#3572A5", "percentage": 99.1 },
+        { "name": "Shell", "color": "#89e051", "percentage": 0.9 }
+      ],
+      "activity": { "kind": "commit", "at": "2026-03-12T12:59:11Z" },
+      "evidenceLevel": "documented"
+    },
+    {
+      "id": "docintel-ai",
+      "name": "DocIntel AI",
+      "priority": 3,
+      "latest": false,
+      "visibility": "private",
+      "publicWebsite": null,
+      "diagram": "none",
+      "headline": "Director-Actor document processing",
+      "summary": "Director-Actor OCR and vision into structured fields.",
+      "detail": "INTELLIGENT DOCUMENT PROCESSING",
+      "architecture": "Director-actor work over OCR and vision.",
+      "technologies": ["Python", "FastAPI", "OpenAI", "PyMuPDF"],
+      "languages": [
+        { "name": "Python", "color": "#3572A5", "percentage": 99.6 },
+        { "name": "Dockerfile", "color": "#384d54", "percentage": 0.4 }
+      ],
+      "activity": { "kind": "commit", "at": "2026-03-12T18:48:36Z" },
+      "evidenceLevel": "documented"
+    }
+  ],
+  "publicCode": [
+    {
+      "name": "medical-ai-analyzer",
+      "url": "https://github.com/MohammadMoradpoor/medical-ai-analyzer",
+      "note": "Public file-analysis app."
+    }
+  ]
+}

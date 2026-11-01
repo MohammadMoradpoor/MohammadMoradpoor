@@ -1,0 +1,19 @@
+{
+  "name": "public-builder-profile",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "update": "node scripts/update-profile.mjs",
+    "render": "node scripts/render-profile.mjs",
+    "test": "node --test",
+    "verify": "npm test && npm run render",
+    "audit:release": "node scripts/audit-release.mjs --strict"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "opentype.js": "^2.0.0"
+  }
+}

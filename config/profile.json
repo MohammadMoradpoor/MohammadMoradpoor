@@ -1,0 +1,37 @@
+{
+  "username": "MohammadMoradpoor",
+  "tagline": "Agentic AI systems and durable workflows.",
+  "roles": [
+    "AI Software Engineer",
+    "Applied AI",
+    "LLM Systems",
+    "ML Engineering"
+  ],
+  "links": [
+    {
+      "label": "LinkedIn",
+      "url": "https://www.linkedin.com/in/mohammad-moradpoor"
+    }
+  ],
+  "activityWindowDays": 365,
+  "topRepositories": 5,
+  "contributedOrganizations": 7,
+  "mergedPullRequestSearchPages": 10,
+  "contributedOrganizationPrioritySearchPages": 2,
+  "contributedOrganizationPriority": [],
+  "featuredAffiliations": [],
+  "recentContributionRepositories": 5,
+  "creatorBenchmarkCountries": [
+    { "key": "india", "label": "India", "path": "India" },
+    { "key": "usa", "label": "USA", "path": "United States" },
+    { "key": "uk", "label": "UK", "path": "United Kingdom" },
+    { "key": "china", "label": "China", "path": "China" }
+  ],
+  "techStack": [
+    "Python",
+    "TypeScript",
+    "FastAPI",
+    "SQL",
+    "Temporal"
+  ]
+}

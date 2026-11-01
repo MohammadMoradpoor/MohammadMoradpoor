@@ -1,0 +1,8 @@
+node_modules/
+audit-denylist.txt
+assets/.goutputstream-*
+.env
+preview/
+assets/public-builder-*.svg
+.gstack/
+Mohammad_Moradpoor_AI_Software_Engineer_Resume.pdf
