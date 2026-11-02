@@ -153,7 +153,8 @@ test('README links Matruno and does not link removed projects', () => {
   assert.match(readme, /https:\/\/www\.matruno\.com\//);
   assert.doesNotMatch(readme, /medical-ai-analyzer/);
   assert.doesNotMatch(readme, /ClinMira-AI|nexus-ai|example\.com/);
-  assert.equal(validatePresentation(presentation).heroHeading, 'AI ENGINEERING');
+  assert.equal(validatePresentation(presentation).heroHeading, 'PRODUCTION SYSTEMS');
+  assert.equal(validatePresentation(presentation).heroSupport, 'Turning intelligent models into reliable software.');
 });
 
 test('rendering does not alter stored public metrics', () => {
