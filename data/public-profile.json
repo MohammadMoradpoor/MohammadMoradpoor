@@ -8,23 +8,23 @@
   },
   "metrics": {
     "ownedStars": 4,
-    "commits": 0,
-    "pullRequests": 0,
+    "commits": 1,
+    "pullRequests": 1,
     "issues": 0,
     "reviews": 0,
     "windowDays": 365,
-    "windowStart": "2025-11-03",
-    "windowEnd": "2026-11-03"
+    "windowStart": "2025-11-04",
+    "windowEnd": "2026-11-04"
   },
   "ranking": {
     "followerWorld": {
-      "position": 291311,
+      "position": 291532,
       "measuredValue": 59,
       "source": "GitHub Search",
       "method": "users with more followers plus one"
     },
     "topProjectWorld": {
-      "position": 5165092,
+      "position": 5161558,
       "measuredValue": 4,
       "repository": "MohammadMoradpoor/MohammadMoradpoor",
       "source": "GitHub Search",
@@ -70,7 +70,7 @@
       "url": "https://github.com/MohammadMoradpoor/MohammadMoradpoor",
       "stars": 4,
       "forks": 0,
-      "updatedAt": "2026-11-02T13:30:26Z",
+      "updatedAt": "2026-11-03T12:48:15Z",
       "createdAt": "2023-06-14T11:50:30Z",
       "languages": [
         {
@@ -86,7 +86,7 @@
       "url": "https://github.com/MohammadMoradpoor/medical-ai-analyzer",
       "stars": 0,
       "forks": 0,
-      "updatedAt": "2026-03-11T13:29:48Z",
+      "updatedAt": "2026-11-03T15:07:41Z",
       "createdAt": "2026-03-11T10:47:51Z",
       "languages": [
         {
@@ -409,12 +409,12 @@
     }
   ],
   "builderIndex": {
-    "score": 9.4,
+    "score": 13.5,
     "scale": 100,
     "values": {
       "creation": 14,
-      "shipping": 0,
-      "collaboration": 0,
+      "shipping": 10,
+      "collaboration": 8.2,
       "maintenance": 0,
       "community": 44.5
     },
@@ -455,6 +455,6 @@
     "titlesAndCommitMessagesIncluded": false,
     "policy": "Every contribution row must belong to a repository whose GitHub visibility is PUBLIC."
   },
-  "fingerprint": "79404a5d66f1d259fead2cfd8056fa434dfc9f6daa4b09b98746d5bde421703b",
-  "generatedAt": "2026-11-03T12:48:08.992Z"
+  "fingerprint": "19086d2ad1b2768a0ab4c4870ff460d5528e8f4876a319a03cc2143f7dfd5249",
+  "generatedAt": "2026-11-04T12:59:46.877Z"
 }
