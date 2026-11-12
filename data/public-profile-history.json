@@ -229,5 +229,26 @@
     "pullRequests": 1,
     "issues": 0,
     "reviews": 0
+  },
+  {
+    "login": "MohammadMoradpoor",
+    "date": "2026-11-12",
+    "builderIndex": 13.5,
+    "followerRank": 280592,
+    "topProjectRank": 5182404,
+    "gitRanksCreatorRank": null,
+    "creatorBenchmarkRanks": {
+      "world": null,
+      "india": null,
+      "usa": null,
+      "uk": null,
+      "china": null
+    },
+    "followers": 61,
+    "ownedStars": 4,
+    "commits": 1,
+    "pullRequests": 1,
+    "issues": 0,
+    "reviews": 0
   }
 ]
