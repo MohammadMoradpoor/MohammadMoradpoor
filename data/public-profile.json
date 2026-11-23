@@ -13,18 +13,18 @@
     "issues": 0,
     "reviews": 0,
     "windowDays": 365,
-    "windowStart": "2025-11-22",
-    "windowEnd": "2026-11-22"
+    "windowStart": "2025-11-23",
+    "windowEnd": "2026-11-23"
   },
   "ranking": {
     "followerWorld": {
-      "position": 286021,
+      "position": 286040,
       "measuredValue": 60,
       "source": "GitHub Search",
       "method": "users with more followers plus one"
     },
     "topProjectWorld": {
-      "position": 5207601,
+      "position": 5209936,
       "measuredValue": 4,
       "repository": "MohammadMoradpoor/MohammadMoradpoor",
       "source": "GitHub Search",
@@ -70,7 +70,7 @@
       "url": "https://github.com/MohammadMoradpoor/MohammadMoradpoor",
       "stars": 4,
       "forks": 0,
-      "updatedAt": "2026-11-21T13:28:14Z",
+      "updatedAt": "2026-11-22T13:21:10Z",
       "createdAt": "2023-06-14T11:50:30Z",
       "languages": [
         {
@@ -455,6 +455,6 @@
     "titlesAndCommitMessagesIncluded": false,
     "policy": "Every contribution row must belong to a repository whose GitHub visibility is PUBLIC."
   },
-  "fingerprint": "c8c592ccecf9a074ae75d2f37afcf4e368d0b80a2a67d8541ab84803ae22ffd0",
-  "generatedAt": "2026-11-22T13:21:00.382Z"
+  "fingerprint": "c38c6c5b5c74d4df3d4313479aac7ec7810381a7abfce3b1a8821bca21242c9e",
+  "generatedAt": "2026-11-23T15:57:50.758Z"
 }
