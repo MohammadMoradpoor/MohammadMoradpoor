@@ -3,7 +3,7 @@
   "profile": {
     "login": "MohammadMoradpoor",
     "name": "Mohammad Moradpoor",
-    "followers": 60,
+    "followers": 59,
     "originalRepositoryCount": 2
   },
   "metrics": {
@@ -13,18 +13,18 @@
     "issues": 0,
     "reviews": 0,
     "windowDays": 365,
-    "windowStart": "2025-11-24",
-    "windowEnd": "2026-11-24"
+    "windowStart": "2025-11-25",
+    "windowEnd": "2026-11-25"
   },
   "ranking": {
     "followerWorld": {
-      "position": 285244,
-      "measuredValue": 60,
+      "position": 291857,
+      "measuredValue": 59,
       "source": "GitHub Search",
       "method": "users with more followers plus one"
     },
     "topProjectWorld": {
-      "position": 5212995,
+      "position": 5217182,
       "measuredValue": 4,
       "repository": "MohammadMoradpoor/MohammadMoradpoor",
       "source": "GitHub Search",
@@ -70,7 +70,7 @@
       "url": "https://github.com/MohammadMoradpoor/MohammadMoradpoor",
       "stars": 4,
       "forks": 0,
-      "updatedAt": "2026-11-23T15:57:57Z",
+      "updatedAt": "2026-11-24T15:53:12Z",
       "createdAt": "2023-06-14T11:50:30Z",
       "languages": [
         {
@@ -416,7 +416,7 @@
       "shipping": 10,
       "collaboration": 8.2,
       "maintenance": 0,
-      "community": 44.6
+      "community": 44.5
     },
     "model": {
       "version": "1.0.0",
@@ -455,6 +455,6 @@
     "titlesAndCommitMessagesIncluded": false,
     "policy": "Every contribution row must belong to a repository whose GitHub visibility is PUBLIC."
   },
-  "fingerprint": "533f06091f1249db29c0efbe885c88d2d7221d37293fa79343ae2c097da410dd",
-  "generatedAt": "2026-11-24T15:53:05.135Z"
+  "fingerprint": "404e1a5739f4ca53da5f12b4fe0148d120cde3a01394ea505e4652fba33f3493",
+  "generatedAt": "2026-11-25T15:35:59.064Z"
 }
